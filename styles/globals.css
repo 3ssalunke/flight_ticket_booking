@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+tr {
+  text-align: center;
+}
